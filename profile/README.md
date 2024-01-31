@@ -1,6 +1,6 @@
 
 #  Freedom Finance Stack
-![alt-text](/Users/varun.bansal/Desktop/Screenshot 2024-01-29 at 4.10.01 PM.png "FFS_Banner")
+![alt-text](Banner%20Image%20for%20FFS.png "FFS_Banner")
 
 ## Overview
 
@@ -20,7 +20,7 @@ Freedom Finance Stack builds on top of India Stack to offer additional features 
 
 ### Links
 
-* [Website](www.freedomfinancestack.com)
+* [Website](https://freedomfinancestack.org/)
 
 ### Contact Us
 * [Email](mailto:contact@freedomfinancestack.org)
