@@ -1,6 +1,6 @@
 
 #  Freedom Finance Stack
-[![Screenshot 2024-01-29 at 4.10.01 PM](https://i.im.ge/2024/02/01/bC20Nr.Screenshot-2024-01-29-at-4-10-01-PM.png)](https://im.ge/i/bC20Nr)
+[![Banner](https://i.im.ge/2024/02/01/bC20Nr.Screenshot-2024-01-29-at-4-10-01-PM.png)](https://im.ge/i/bC20Nr)
 
 ## Overview
 
