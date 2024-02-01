@@ -1,6 +1,7 @@
 
 #  Freedom Finance Stack
-![Banner](https://i.im.ge/2024/02/01/bC20Nr.Screenshot-2024-01-29-at-4-10-01-PM.png)
+![Screenshot 2024-01-29 at 4 10 01 PM](https://github.com/freedom-finance-stack/.github/assets/78952062/b88e63b5-33b0-4290-8e83-6637e1f47965)
+
 
 ## Overview
 
